@@ -1,0 +1,19 @@
+name: SanityPvP
+main: net.iceviper.flyphants.sanitypvp.Main
+version: 2.000
+commands:
+  sanity:
+    description: Type /sanity help for all commands.
+    usage: /sanity help
+  logout:
+    description: Used to logout safely.
+    usage: /logout
+  loadout:
+    description: Used to change loadout.
+    usage: /loadout
+  reset:
+    description: Used to reset a player's stats
+    usage: /reset
+  shop:
+    description: Used to access the shop
+    usage: /shop
